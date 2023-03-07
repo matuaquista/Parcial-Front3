@@ -1,0 +1,14 @@
+.Errormessasge {
+  color: red;
+}
+.form {
+  width: 800px;
+  heigh: 600px;
+  border: solid;
+  border-radius: 10px;
+  border-color: green;
+  background-color: grey;
+}
+#boton {
+  margin-left: 20px;
+}
